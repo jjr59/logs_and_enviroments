@@ -1,4 +1,4 @@
-#!/home/jjr59/logs/logs_and_enviroments/venv/bin/python3
+#!/home/jjr59/logs/logs_and_enviroments/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
